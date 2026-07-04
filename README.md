@@ -56,7 +56,7 @@ The dashboard allows users to analyse retail performance across provinces, store
 
 ## Dashboard Preview
 
-![Retail Sales Executive Dashboard](Images/Dashboard.png)
+![Retail Sales Executive Dashboard](Dashboard.png)
 
 ---
 
